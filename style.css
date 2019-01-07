@@ -1,0 +1,8 @@
+.divmovie{
+    float: right;
+    border: 1px solid black;
+    margin: 15px ;
+    height: 60vh;
+    background-color: aliceblue;
+    margin: 10 auto;
+}
